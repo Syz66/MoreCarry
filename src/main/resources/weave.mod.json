@@ -1,6 +1,7 @@
 {
-  "name": "Mod Template",
-  "modId": "ModTemplate",
-  "mixinConfigs": [],
-  "entrypoints": []
+  "name": "More Carry",
+  "modId": "morecarry",
+  "entrypoints": [
+    "me.zircta.morecarry.Main"
+  ]
 }
